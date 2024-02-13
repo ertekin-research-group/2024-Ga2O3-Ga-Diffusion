@@ -1,4 +1,4 @@
-# 2024-Ga2O3-Ga_Diffusion
+# 2024-Ga2O3-Ga-Diffusion
 This repository hosts the generated and analyzed data for the study of 'Investigation of Ga interstitial and vacancy diffusion in β-Ga2O3 via split defects: a direct approach via master diffusion equations.' 
 It contains detailed atomic structures and diffusion pathways, highlighting the intricate behavior of intrinsic defects and their impact on Ga self-diffusion in β-Ga2O3.
 
